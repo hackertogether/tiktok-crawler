@@ -1,0 +1,6 @@
+aiohttp>=3.4.4
+dateparser
+motor>=2.0.0
+requests
+retrying
+tqdm
